@@ -1,0 +1,43 @@
+https://www.youtube.com/watch?v=uH-4KD1sT5s
+
+In this tutorial we'll be creating a movie application using React, Routing, Axios, React Bootstrap Css, React Pagination, React Alice Carousel implementing React Hooks,  and fetching data from an external API (The Movie Database).
+
+In this video we creating a home page with call a api using useEffect lifecycle hook and do a pagination in bottom.
+
+Let's Create a Movies and TV Series App in React JS and React Bootstrap with full responsive functionality. We will use MovieDB API for backend.
+
+We create multiple pages :-
+1. Top Trending
+2. Top Trending Movies with Filter By Categories
+3. Top Trending TV Series with Filter By Categories
+4. Search Movies / TV Series 
+5. CONNECT WITH US
+6. About Page
+
+1. App setup
+2. React Routing 
+3. Dynamic Routing
+4. AXIOS setup and used
+5. React Bootstrap install and setup
+6. Bootstrap Icons
+7.  React Pagination
+8. React Alice Carousel
+9. themoviedb API used and setup
+
+[+] Installed 2 dependencies react bootstrap and react router dom.
+[+] At first we made pages as index.js in Components folder.
+
+[+]Then we do Routing of the pages in Route folder. Where all the routing are present.
+After making basic router components import it to app.js file. Then the Router page is visible in the home screen.
+
+Component, Folder Structure done...
+
+Next we have to make Routing.
+
+Now in first 46 min we have made diff pages and routing the pages.
+
+Till 1hr I learned the use of React Router Dom and the linking, Router configuretion, use of link tag.
+
+Axios - 1:12:00
+
+useParams - in details page we use it to get movie type and movie id.
